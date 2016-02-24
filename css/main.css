@@ -26,9 +26,13 @@ html {
     padding-bottom: 2em;
 }
 
-body {
-    color: black;
+main {
+    background-color: black;
     margin: 0;
     padding: 0;
     text-align: center;
+}
+
+body {
+  background-color: #F8BE58;
 }
