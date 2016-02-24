@@ -6,7 +6,7 @@
 
 html {
     box-sizing: border-box;
-    
+
     -moz-text-size-adjust:100%;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%;
@@ -14,5 +14,14 @@ html {
 }
 
 *, *::before, *::after {
- box-sizing: inherit;   
+ box-sizing: inherit;
+}
+
+
+.logo {
+    width: 95%;
+    height: auto;
+    padding-top: 1em;
+    padding-left: 1.7em;
+    padding-bottom: 2em;
 }
